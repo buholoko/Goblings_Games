@@ -9,6 +9,8 @@ TagManager:
   - WinCoin
   - Ground
   - player 2
+  - door
+  - button
   layers:
   - Default
   - TransparentFX
