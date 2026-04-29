@@ -100,3 +100,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed6967e4fde16764386ce15e9544d026, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  distanciaParaRecoger: 0.001
+  velocidadGiro: 100
