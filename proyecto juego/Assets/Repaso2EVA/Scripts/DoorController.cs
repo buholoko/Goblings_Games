@@ -18,12 +18,20 @@ public class DoorController : MonoBehaviour
     void Update() // Movemos la puerta cada frame hacia su posición objetivo
     {
         // Movemos la puerta hacia el objetivo actual
-        Vector3 target = isOpen ? openPosition : closedPosition;
+        Vector3 target = isOpen ? openPosition : closedPosition; // Si la puerta está abierta, el objetivo es la posición abierta; si está cerrada, el objetivo es la posición cerrada
         transform.position = Vector3.Lerp(transform.position, target, Time.deltaTime * speed); // Lerp suaviza el movimiento hacia la posición objetivo
     }
 
     public void SetDoorState(bool state) // Método público para cambiar el estado de la puerta (abierta o cerrada)
     {
         isOpen = state; // Cambiamos el estado de la puerta según el parámetro recibido (true para abrir, false para cerrar)
+        if (isOpen)
+        {
+            Debug.Log("La puerta se ha abierto."); // Imprime en la consola que la puerta se ha abierto
+        }
+        else
+        {
+            Debug.Log("La puerta se ha cerrado.");  // Imprime en la consola que la puerta se ha cerrado
+        }
     }
 }

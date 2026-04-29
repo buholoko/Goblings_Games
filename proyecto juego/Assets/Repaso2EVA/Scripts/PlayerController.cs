@@ -222,36 +222,42 @@ public class PlayerController : MonoBehaviour
     {
         if (isWalled && !isGrounded && moveInput.x != 0)
         {
-            isWallSliding = true;
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlidingSpeed, float.MaxValue));
-        }
+            isWallSliding = true; 
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlidingSpeed, float.MaxValue)); 
+    }
         else
         {
-            isWallSliding = false;
+           isWallSliding = false;
+    }
+
+        // Solo permitir el Flip normal si NO estamos saltando de la pared
+        if (wallJumpTime <= 0)
+        {
+            Flip();
         }
 
-        Flip();
-        AnimatorHandler();
-    }
+         AnimatorHandler();
+}
 
     void Flip()
     {
-        if (moveInput.x > 0f && !isFacingRight)
+        // Solo girar si el jugador se está moviendo y la dirección no coincide con isFacingRight
+        if ((moveInput.x > 0f && !isFacingRight) || (moveInput.x < 0f && isFacingRight))
         {
-            isFacingRight = true;
-            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
-        }
-        else if (moveInput.x < 0f && isFacingRight)
-        {
-            isFacingRight = false;
-            transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+         isFacingRight = !isFacingRight;
+        Vector3 localScale = transform.localScale;
+            localScale.x *= -1f; // Invierte el eje X
+            transform.localScale = localScale;
         }
     }
 
     void FlipWallJump()
     {
-        isFacingRight = !isFacingRight;
-        transform.localScale = new Vector3(transform.localScale.x * -1f, transform.localScale.y, transform.localScale.z);
+        // Cambiamos el estado y aplicamos la escala directamente
+       isFacingRight = !isFacingRight;
+    Vector3 localScale = transform.localScale;
+        localScale.x *= -1f;
+        transform.localScale = localScale;
     }
 
     void AnimatorHandler()
