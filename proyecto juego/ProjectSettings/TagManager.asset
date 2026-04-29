@@ -10,6 +10,7 @@ TagManager:
   - Ground
   - player 2
   - Gema
+  - Gema 2
   layers:
   - Default
   - TransparentFX
