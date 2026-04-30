@@ -9,16 +9,16 @@ public class SpecificPressurePlate : MonoBehaviour
     [SerializeField] private string targetTag = "Untagged"; 
 
     [Header("Eventos")]
-    public UnityEvent onActivate;
-    public UnityEvent onDeactivate;
+    public UnityEvent onActivate; //    Evento para activar la placa
+    public UnityEvent onDeactivate; //    Evento para desactivar la placa
 
     private void OnTriggerEnter(Collider other)
     {
         // Comparamos con el tag seleccionado en el desplegable
         if (other.CompareTag(targetTag))
         {
-            onActivate.Invoke();
-            Debug.Log($"Placa presionada por: {targetTag}");
+            onActivate.Invoke(); // Activamos el evento de la placa
+            Debug.Log($"Placa presionada por: {targetTag}");    // Solo para confirmar en la consola qué tag activó la placa
         }
     }
 

@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 301969786342746391}
   - component: {fileID: 2665569567305173697}
   - component: {fileID: 2173957190795137242}
-  - component: {fileID: -3536867473810038303}
+  - component: {fileID: -8943829847563181411}
+  - component: {fileID: 943908378514268093}
   m_Layer: 0
   m_Name: Boton
   m_TagString: Untagged
@@ -119,7 +120,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -135,7 +136,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.42, y: 1.32}
   m_EdgeRadius: 0
---- !u!114 &-3536867473810038303
+--- !u!114 &-8943829847563181411
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -144,37 +145,36 @@ MonoBehaviour:
   m_GameObject: {fileID: 8794729100634555171}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a830b80b118c6142a6a0b6ed4f2b2b3, type: 3}
+  m_Script: {fileID: 11500000, guid: 14ff7935ad783fb45bb247adaa1d0d63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetTag: player 2
-  onActivate:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: -6113147079833418719, guid: a10a855d7d402934db4291b5e2b6cec1, type: 3}
-        m_TargetAssemblyTypeName: Door, Assembly-CSharp
-        m_MethodName: OpenDoor
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  onDeactivate:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: -6113147079833418719, guid: a10a855d7d402934db4291b5e2b6cec1, type: 3}
-        m_TargetAssemblyTypeName: Door, Assembly-CSharp
-        m_MethodName: CloseDoor
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+  targetTag: Player
+  doorScript: {fileID: 9220643906931737259, guid: a10a855d7d402934db4291b5e2b6cec1, type: 3}
+  pressedDepth: 0.3
+--- !u!50 &943908378514268093
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8794729100634555171}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
