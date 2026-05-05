@@ -30,11 +30,13 @@ public class ElevatorManager : MonoBehaviour
         // Condición: Ambos jugadores deben estar en sus plataformas
         if (plataforma1.estaOcupada && plataforma2.estaOcupada)
         {
+            Debug.Log("Ascensor subendo...");
             target1 = plat1End;
             target2 = plat2End;
         }
         else
         {
+            Debug.Log("Ascensor bajando...");
             target1 = plat1Start;
             target2 = plat2Start;
         }

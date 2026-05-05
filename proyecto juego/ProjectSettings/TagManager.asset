@@ -12,6 +12,8 @@ TagManager:
   - Gema
   - Gema 2
   - Caja
+  - Elevador
+  - Elevador 2
   layers:
   - Default
   - TransparentFX

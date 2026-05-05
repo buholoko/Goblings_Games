@@ -5,7 +5,9 @@ public class PlataformaIndividual : MonoBehaviour
     [Tag] public string targetTag = "Player1"; // El tag asignado a esta plataforma
     public bool estaOcupada = false;
 
-    private void OnCollisionEnter(Collision collision)
+  
+
+    private void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag(targetTag))
         {
@@ -15,7 +17,7 @@ public class PlataformaIndividual : MonoBehaviour
         }
     }
 
-    private void OnCollisionExit(Collision collision)
+    private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag(targetTag))
         {
