@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Repaso2EVA/Scenes/SCN_Menu.unity
+    guid: d8670642a75ac3d4fa2f8688f7f8a44c
+  - enabled: 1
+    path: Assets/Repaso2EVA/Scenes/MainLevel.unity
+    guid: b3dc2d203bf298740b6608fb6cb982ab
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 60b1fa3e7a53efc49aee016b7b8691b3, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
