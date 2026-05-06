@@ -52,9 +52,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Vector2 colliderSizeCrouch = new Vector2(0.8f, 0.8f);
     [SerializeField] Vector2 colliderOffsetCrouch = new Vector2(0f, 0.4f);
 
-    [Header("Respawn Configuration")]
-    [SerializeField] Transform respawnPoint;
-
+    
     // Auto references
     Rigidbody2D rb;
     Animator anim;
@@ -67,7 +65,9 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
         col = GetComponent<BoxCollider2D>();
         extraJumps = extraJumpsValue;
+        Checkpoint.ultimaPosicionSegura = transform.position;
     }
+
 
     void Update()
     {
@@ -268,7 +268,8 @@ public class PlayerController : MonoBehaviour
 
     void Respawn()
     {
-        if (respawnPoint != null) transform.position = respawnPoint.position;
+        // Ahora te teletransporta a la última posición segura guardada
+        transform.position = Checkpoint.ultimaPosicionSegura;
     }
 
     private void OnDrawGizmos()

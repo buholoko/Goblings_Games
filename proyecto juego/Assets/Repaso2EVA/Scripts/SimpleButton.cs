@@ -2,8 +2,11 @@ using UnityEngine;
 
 public class SimpleButton : MonoBehaviour
 {
-    [Tag] public string targetTag = "Player1"; // Tu selector de Tags automático
-    public DoorController doorScript; // Arrastra la puerta aquí directamente
+    // Escribe "Player2" en el Inspector de Unity para que solo él pueda activarlo
+    [Tag] public string targetTag = "Player2";
+
+    // Aquí arrastraremos la plataforma que queremos mover
+    public ControladorPlataforma plataformaScript;
 
     [Header("Ajuste Visual (Opcional)")]
     public float pressedDepth = 0.2f;
@@ -21,16 +24,17 @@ public class SimpleButton : MonoBehaviour
         if (other.CompareTag(targetTag))
         {
             transform.position = downPos; // El botón baja visualmente
-            if (doorScript != null) doorScript.OpenDoor();
+            if (plataformaScript != null) plataformaScript.Subir(); // Le dice a la plataforma que suba
         }
     }
 
-    private void OnTriggerExit(Collider other)
+    // ¡CORREGIDO! Ahora dice OnTriggerExit2D
+    private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag(targetTag))
         {
-            transform.position = upPos; // El botón sube
-            if (doorScript != null) doorScript.CloseDoor();
+            transform.position = upPos; // El botón sube visualmente
+            if (plataformaScript != null) plataformaScript.Bajar(); // Le dice a la plataforma que baje
         }
     }
 }

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 566957600855719798}
   m_Layer: 0
-  m_Name: CeilingCheck (1)
+  m_Name: 'CeilingCheck '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25,9 +25,9 @@ Transform:
   m_GameObject: {fileID: 986278879730893806}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.4519997, y: 1.14, z: 0}
+  m_LocalPosition: {x: 0.12, y: 4.64, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1880261655343888502}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -45,7 +45,6 @@ GameObject:
   - component: {fileID: 4221168448657148841}
   - component: {fileID: 4792857758674931034}
   - component: {fileID: -2176893682742828782}
-  - component: {fileID: -532248385576911396}
   - component: {fileID: 6701779500588394636}
   m_Layer: 0
   m_Name: Player
@@ -63,8 +62,8 @@ Transform:
   m_GameObject: {fileID: 1165845773996878507}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.22, y: 0, z: 0}
+  m_LocalScale: {x: 0.2758876, y: 0.2758876, z: 0.2758876}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7705851504721721481}
@@ -183,7 +182,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0064030886, y: 0.7214288}
+  m_Offset: {x: -0.052297533, y: 2.3725507}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -193,7 +192,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.65363, y: 1.0963401}
+  m_Size: {x: 2.5919294, y: 4.744662}
   m_EdgeRadius: 0
 --- !u!50 &4792857758674931034
 Rigidbody2D:
@@ -218,7 +217,7 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 0
   m_CollisionDetection: 1
   m_Constraints: 4
@@ -253,31 +252,18 @@ MonoBehaviour:
   wallSlidingSpeed: 1
   isGrounded: 0
   groundCheck: {fileID: 7705851504721721481}
-  groundCheckRadius: 0.3
+  groundCheckRadius: 0.1
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
-  ceilingCheck: {fileID: 0}
-  ceilingCheckRadius: 0.2
+  ceilingCheck: {fileID: 566957600855719798}
+  ceilingCheckRadius: 0.1
   isCrouching: 0
-  colliderSizeNormal: {x: 0.8, y: 1.6}
-  colliderOffsetNormal: {x: 0, y: 0.8}
-  colliderSizeCrouch: {x: 0.8, y: 0.8}
-  colliderOffsetCrouch: {x: 0, y: 0.4}
+  colliderSizeNormal: {x: 2.5, y: 4.4}
+  colliderOffsetNormal: {x: -0.15, y: 2.2}
+  colliderSizeCrouch: {x: 0.4, y: 0.4}
+  colliderOffsetCrouch: {x: 0.1, y: 0.4}
   respawnPoint: {fileID: 0}
---- !u!114 &-532248385576911396
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1165845773996878507}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a49d04785ae621e4babf86f945a94c3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  valorGema: 1
 --- !u!114 &6701779500588394636
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -413,9 +399,9 @@ Transform:
   m_GameObject: {fileID: 1398249685099263205}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.397, y: 0.964, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: 1.326, y: 3.6, z: 0}
+  m_LocalScale: {x: 1.05, y: 1.05, z: 1.05}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1880261655343888502}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -444,7 +430,7 @@ Transform:
   m_GameObject: {fileID: 7397515728375049044}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.227, z: 0}
+  m_LocalPosition: {x: 0, y: 0.018, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
