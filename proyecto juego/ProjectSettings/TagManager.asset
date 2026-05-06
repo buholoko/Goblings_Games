@@ -9,6 +9,11 @@ TagManager:
   - WinCoin
   - Ground
   - player 2
+  - Gema
+  - Gema 2
+  - Caja
+  - Elevador
+  - Elevador 2
   layers:
   - Default
   - TransparentFX
