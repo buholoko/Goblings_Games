@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 95b03e6dc36cd4f419fe21c6d771e7ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -655268819357525098
+    second: ChicaDuende (1)_0
+  - first:
+      213: -4470147908960692095
+    second: ChicaDuende (1)_1
+  - first:
+      213: -5698480298734859403
+    second: ChicaDuende (1)_2
+  - first:
+      213: 6972589399308544752
+    second: ChicaDuende (1)_3
+  - first:
+      213: -3015133021048843165
+    second: ChicaDuende (1)_4
+  - first:
+      213: 6043143000226603109
+    second: ChicaDuende (1)_5
+  - first:
+      213: 6305679374848920793
+    second: ChicaDuende (1)_6
+  - first:
+      213: -8647681584419403704
+    second: ChicaDuende (1)_7
+  - first:
+      213: -4877893632351603295
+    second: ChicaDuende (1)_8
+  - first:
+      213: 8011636988595200161
+    second: ChicaDuende (1)_9
+  - first:
+      213: -476269747321281127
+    second: ChicaDuende (1)_10
+  - first:
+      213: -2950654622642355052
+    second: ChicaDuende (1)_11
+  - first:
+      213: 5387746897755730152
+    second: ChicaDuende (1)_12
+  - first:
+      213: -5378269906976747658
+    second: ChicaDuende (1)_13
+  - first:
+      213: 7136019841434663758
+    second: ChicaDuende (1)_14
+  - first:
+      213: -5476170409719167152
+    second: ChicaDuende (1)_15
+  - first:
+      213: 4215807470970200394
+    second: ChicaDuende (1)_16
+  - first:
+      213: 3513341025749745560
+    second: ChicaDuende (1)_17
+  - first:
+      213: -1342015819184543657
+    second: ChicaDuende (1)_18
+  - first:
+      213: 2640135653013333763
+    second: ChicaDuende (1)_19
+  - first:
+      213: -7727052490005442109
+    second: ChicaDuende (1)_20
+  - first:
+      213: 6710999346846552148
+    second: ChicaDuende (1)_21
+  - first:
+      213: -8888337790611943812
+    second: ChicaDuende (1)_22
+  - first:
+      213: -6251786110613687234
+    second: ChicaDuende (1)_23
+  - first:
+      213: -2276272991789160052
+    second: ChicaDuende (1)_24
+  - first:
+      213: -2981588074423729690
+    second: ChicaDuende (1)_25
+  - first:
+      213: 1875340621971878833
+    second: ChicaDuende (1)_26
+  - first:
+      213: -3492960148614368384
+    second: ChicaDuende (1)_27
+  - first:
+      213: 5948721251607565555
+    second: ChicaDuende (1)_28
+  - first:
+      213: 6359916707221328761
+    second: ChicaDuende (1)_29
+  - first:
+      213: -715656343482364383
+    second: ChicaDuende (1)_30
+  - first:
+      213: 8672598179057380013
+    second: ChicaDuende (1)_31
+  - first:
+      213: 1022559895101057361
+    second: ChicaDuende (1)_32
+  - first:
+      213: 8199573101681563536
+    second: ChicaDuende (1)_33
+  - first:
+      213: 1895426575884458460
+    second: ChicaDuende (1)_34
+  - first:
+      213: 3471838411367355051
+    second: ChicaDuende (1)_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChicaDuende (1)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 402
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1ec50b7408e6f0800000000000000
+      internalID: -655268819357525098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 402
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18851f02928d6f1c0800000000000000
+      internalID: -4470147908960692095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 402
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc8523c5eeae0b0800000000000000
+      internalID: -5698480298734859403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 402
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa076cd1d93c060800000000000000
+      internalID: 6972589399308544752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 402
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36455d10e781826d0800000000000000
+      internalID: -3015133021048843165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 402
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560256f6a8e8dd350800000000000000
+      internalID: 6043143000226603109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc80658bf5428750800000000000000
+      internalID: 6305679374848920793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 322
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488ef59a634df780800000000000000
+      internalID: -8647681584419403704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 322
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5fa87e59d3e4cb0800000000000000
+      internalID: -4877893632351603295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 322
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0e896c46d0f2f60800000000000000
+      internalID: 8011636988595200161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 322
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99566ad2033f369f0800000000000000
+      internalID: -476269747321281127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 322
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494c982014b2d07d0800000000000000
+      internalID: -2950654622642355052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 248
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0717c024f15ca40800000000000000
+      internalID: 5387746897755730152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 249
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f4a70d30c8c55b0800000000000000
+      internalID: -5378269906976747658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3adecc3c380360800000000000000
+      internalID: 7136019841434663758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 245
+        width: 65
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0570f2fb60cb004b0800000000000000
+      internalID: -5476170409719167152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 242
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ed9cfe8e818a30800000000000000
+      internalID: 4215807470970200394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 242
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fbe966c05e1c030800000000000000
+      internalID: 3513341025749745560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758ec8609b3306de0800000000000000
+      internalID: -1342015819184543657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 162
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30724bc6365a3a420800000000000000
+      internalID: 2640135653013333763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 162
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c19d6433bef3c490800000000000000
+      internalID: -7727052490005442109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 162
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450daac7952422d50800000000000000
+      internalID: 6710999346846552148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 162
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e05e23fd746a480800000000000000
+      internalID: -8888337790611943812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 162
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e347621e7a13d39a0800000000000000
+      internalID: -6251786110613687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 82
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89679036cd0960e0800000000000000
+      internalID: -2276272991789160052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 82
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ce6581754f96d0800000000000000
+      internalID: -2981588074423729690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 82
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b37e751c5c860a10800000000000000
+      internalID: 1875340621971878833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 82
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083be375043868fc0800000000000000
+      internalID: -3492960148614368384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 82
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4d2ede57a1e8250800000000000000
+      internalID: 5948721251607565555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 82
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973dff68c86f24850800000000000000
+      internalID: 6359916707221328761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8a79e85a7116f0800000000000000
+      internalID: -715656343482364383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa2a6e28124b5870800000000000000
+      internalID: 8672598179057380013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1592f0d8eccd03e00800000000000000
+      internalID: 1022559895101057361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d393fa4cbac170800000000000000
+      internalID: 8199573101681563536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd99d69ad68ed4a10800000000000000
+      internalID: 1895426575884458460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChicaDuende (1)_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 64
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29b1bf3a27e2030800000000000000
+      internalID: 3471838411367355051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9de59ce9c4ac282488a57f9790c8b2ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ChicaDuende (1)_0: -655268819357525098
+      ChicaDuende (1)_1: -4470147908960692095
+      ChicaDuende (1)_10: -476269747321281127
+      ChicaDuende (1)_11: -2950654622642355052
+      ChicaDuende (1)_12: 5387746897755730152
+      ChicaDuende (1)_13: -5378269906976747658
+      ChicaDuende (1)_14: 7136019841434663758
+      ChicaDuende (1)_15: -5476170409719167152
+      ChicaDuende (1)_16: 4215807470970200394
+      ChicaDuende (1)_17: 3513341025749745560
+      ChicaDuende (1)_18: -1342015819184543657
+      ChicaDuende (1)_19: 2640135653013333763
+      ChicaDuende (1)_2: -5698480298734859403
+      ChicaDuende (1)_20: -7727052490005442109
+      ChicaDuende (1)_21: 6710999346846552148
+      ChicaDuende (1)_22: -8888337790611943812
+      ChicaDuende (1)_23: -6251786110613687234
+      ChicaDuende (1)_24: -2276272991789160052
+      ChicaDuende (1)_25: -2981588074423729690
+      ChicaDuende (1)_26: 1875340621971878833
+      ChicaDuende (1)_27: -3492960148614368384
+      ChicaDuende (1)_28: 5948721251607565555
+      ChicaDuende (1)_29: 6359916707221328761
+      ChicaDuende (1)_3: 6972589399308544752
+      ChicaDuende (1)_30: -715656343482364383
+      ChicaDuende (1)_31: 8672598179057380013
+      ChicaDuende (1)_32: 1022559895101057361
+      ChicaDuende (1)_33: 8199573101681563536
+      ChicaDuende (1)_34: 1895426575884458460
+      ChicaDuende (1)_35: 3471838411367355051
+      ChicaDuende (1)_4: -3015133021048843165
+      ChicaDuende (1)_5: 6043143000226603109
+      ChicaDuende (1)_6: 6305679374848920793
+      ChicaDuende (1)_7: -8647681584419403704
+      ChicaDuende (1)_8: -4877893632351603295
+      ChicaDuende (1)_9: 8011636988595200161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

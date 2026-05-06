@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: b56551aa238682747a53424a68dbb0ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3369308036589659
+    second: DuendeChico_0
+  - first:
+      213: 4275003488069925664
+    second: DuendeChico_1
+  - first:
+      213: -2245132109993024394
+    second: DuendeChico_2
+  - first:
+      213: 4307968713766766931
+    second: DuendeChico_3
+  - first:
+      213: 4752590990156916387
+    second: DuendeChico_4
+  - first:
+      213: 9041354020814901925
+    second: DuendeChico_5
+  - first:
+      213: 5070533819015621624
+    second: DuendeChico_6
+  - first:
+      213: 5959395851814265193
+    second: DuendeChico_7
+  - first:
+      213: 8275614259104478652
+    second: DuendeChico_8
+  - first:
+      213: -4433906887265597267
+    second: DuendeChico_9
+  - first:
+      213: 2334179558166753066
+    second: DuendeChico_10
+  - first:
+      213: -5591341922261415265
+    second: DuendeChico_11
+  - first:
+      213: -6609160655993346602
+    second: DuendeChico_12
+  - first:
+      213: -1871097364281502531
+    second: DuendeChico_13
+  - first:
+      213: 5748603923425326411
+    second: DuendeChico_14
+  - first:
+      213: -3254286308150119353
+    second: DuendeChico_15
+  - first:
+      213: 6840070833413542556
+    second: DuendeChico_16
+  - first:
+      213: -8065995091350082588
+    second: DuendeChico_17
+  - first:
+      213: -7457874705206446126
+    second: DuendeChico_18
+  - first:
+      213: 9208778803599461892
+    second: DuendeChico_19
+  - first:
+      213: -1013599853403134355
+    second: DuendeChico_20
+  - first:
+      213: 4288640933245210470
+    second: DuendeChico_21
+  - first:
+      213: -3728934729412912207
+    second: DuendeChico_22
+  - first:
+      213: 8667515544548495774
+    second: DuendeChico_23
+  - first:
+      213: 6963989839712216721
+    second: DuendeChico_24
+  - first:
+      213: -1395937750144756824
+    second: DuendeChico_25
+  - first:
+      213: -4476262416937822659
+    second: DuendeChico_26
+  - first:
+      213: 3795338483014657152
+    second: DuendeChico_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuendeChico_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a71757d1a704fff0800000000000000
+      internalID: -3369308036589659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 322
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bb6ffb50dd35b30800000000000000
+      internalID: 4275003488069925664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 322
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674ea0ebd30b7d0e0800000000000000
+      internalID: -2245132109993024394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 322
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359809778baf8cb30800000000000000
+      internalID: 4307968713766766931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 322
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a66603435894f140800000000000000
+      internalID: 4752590990156916387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 322
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2d83b2497597d70800000000000000
+      internalID: 9041354020814901925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 242
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbe700c4a72e5640800000000000000
+      internalID: 5070533819015621624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 242
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9616357f3f604b250800000000000000
+      internalID: 5959395851814265193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 242
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb574149253e8d270800000000000000
+      internalID: 8275614259104478652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da840698d299772c0800000000000000
+      internalID: -4433906887265597267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 242
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe18ee0fba46020800000000000000
+      internalID: 2334179558166753066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 242
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9acbd955209762b0800000000000000
+      internalID: -5591341922261415265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d56704766b8744a0800000000000000
+      internalID: -6609160655993346602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 162
+        width: 64
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4d4d55cd68806e0800000000000000
+      internalID: -1871097364281502531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 163
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fe2a9fc427cf40800000000000000
+      internalID: 5748603923425326411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 160
+        width: 70
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92df18ce20dcee50800000000000000
+      internalID: 6840070833413542556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 162
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba80c2334df0090800000000000000
+      internalID: -8065995091350082588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 162
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77cc8187e408890800000000000000
+      internalID: -7457874705206446126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 82
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e41bb18872ccf70800000000000000
+      internalID: 9208778803599461892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a489bd48fee1f0800000000000000
+      internalID: -1013599853403134355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 64
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fc743e430548b30800000000000000
+      internalID: 4288640933245210470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 82
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbd9bece99204cc0800000000000000
+      internalID: -3728934729412912207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 82
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915dfd1773394870800000000000000
+      internalID: 8667515544548495774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 82
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196e977ccdf05a060800000000000000
+      internalID: 6963989839712216721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a350122302a0ace0800000000000000
+      internalID: -1395937750144756824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 64
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d365dfc4c0f11e1c0800000000000000
+      internalID: -4476262416937822659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuendeChico_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846572ed30cba430800000000000000
+      internalID: 3795338483014657152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 718cc505dd260b3478489530173aee9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DuendeChico_0: -3369308036589659
+      DuendeChico_1: 4275003488069925664
+      DuendeChico_10: 2334179558166753066
+      DuendeChico_11: -5591341922261415265
+      DuendeChico_12: -6609160655993346602
+      DuendeChico_13: -1871097364281502531
+      DuendeChico_14: 5748603923425326411
+      DuendeChico_15: -3254286308150119353
+      DuendeChico_16: 6840070833413542556
+      DuendeChico_17: -8065995091350082588
+      DuendeChico_18: -7457874705206446126
+      DuendeChico_19: 9208778803599461892
+      DuendeChico_2: -2245132109993024394
+      DuendeChico_20: -1013599853403134355
+      DuendeChico_21: 4288640933245210470
+      DuendeChico_22: -3728934729412912207
+      DuendeChico_23: 8667515544548495774
+      DuendeChico_24: 6963989839712216721
+      DuendeChico_25: -1395937750144756824
+      DuendeChico_26: -4476262416937822659
+      DuendeChico_27: 3795338483014657152
+      DuendeChico_3: 4307968713766766931
+      DuendeChico_4: 4752590990156916387
+      DuendeChico_5: 9041354020814901925
+      DuendeChico_6: 5070533819015621624
+      DuendeChico_7: 5959395851814265193
+      DuendeChico_8: 8275614259104478652
+      DuendeChico_9: -4433906887265597267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
