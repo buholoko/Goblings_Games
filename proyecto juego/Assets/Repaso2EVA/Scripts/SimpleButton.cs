@@ -2,16 +2,19 @@ using UnityEngine;
 
 public class SimpleButton : MonoBehaviour
 {
-    // Escribe "Player2" en el Inspector de Unity para que solo él pueda activarlo
+    // Cambiado automáticamente a "Player2"
     [Tag] public string targetTag = "Player2";
 
-    // Aquí arrastraremos la plataforma que queremos mover
+    // Controlador de la plataforma
     public ControladorPlataforma plataformaScript;
 
     [Header("Ajuste Visual (Opcional)")]
     public float pressedDepth = 0.2f;
     private Vector3 upPos;
     private Vector3 downPos;
+
+    // Candado para que solo se presione una vez
+    private bool yaPresionado = false;
 
     void Start()
     {
@@ -21,20 +24,15 @@ public class SimpleButton : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag(targetTag))
+        // Si es el Player 2 Y el botón NO ha sido presionado aún
+        if (other.CompareTag(targetTag) && !yaPresionado)
         {
+            yaPresionado = true; // Bloqueamos el botón para siempre
             transform.position = downPos; // El botón baja visualmente
-            if (plataformaScript != null) plataformaScript.Subir(); // Le dice a la plataforma que suba
+
+            if (plataformaScript != null) plataformaScript.Subir(); // La plataforma sube
         }
     }
 
-    // ¡CORREGIDO! Ahora dice OnTriggerExit2D
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag(targetTag))
-        {
-            transform.position = upPos; // El botón sube visualmente
-            if (plataformaScript != null) plataformaScript.Bajar(); // Le dice a la plataforma que baje
-        }
-    }
+    // ¡Hemos borrado por completo la función OnTriggerExit2D!
 }
